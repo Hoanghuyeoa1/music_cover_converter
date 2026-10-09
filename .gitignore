@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+dist/
+output/
+outputs/
+temp/
+bin/
+soundfonts/
+*.sf2
+*.wav
+*.mp3
